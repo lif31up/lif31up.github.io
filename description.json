@@ -1,4 +1,5 @@
 {
+	"apiVersion": "0.0.2",
 	"interests": {
 		"desc": "I'm also skilled at front-end development: react. typescript. various stylesheet-related skills. web design pattern. nextjs and etc.",
 		"topics": [
@@ -35,6 +36,24 @@
 			"url0": "https://github.com/lif31up/formssafe",
 			"url1": "https://formssafe.com/",
 			"comment": "Participated in Web-Service Project: Form Making/Sharing Service for Student"
+		}
+	],
+	"shortcuts": [
+		{
+			"url": "https://www.github.com/lif31up",
+			"svg_url": "/github.svg"
+		},
+		{
+			"url": "https://lif31up.gitbook.io/lif31up",
+			"svg_url": "/gitbook.svg"
+		},
+		{
+			"url": "https://www.kaggle.com/myeonghwanhan",
+			"svg_url": "/kaggle.svg"
+		},
+		{
+			"url": "mailto:nulranlcns9991@gmail.com",
+			"svg_url": "/mail.svg"
 		}
 	]
 }
