@@ -1,13 +1,13 @@
 {
 	"apiVersion": "0.0.2",
 	"interests": {
-		"desc": "I'm also skilled at front-end development: react. typescript. various stylesheet-related skills. web design pattern. nextjs and etc.",
+		"desc": "All ",
 		"topics": [
 			"Meta-Learning",
-			"Reinforcement Learning"
+			"Front-end Development"
 		]
 	},
-	"description": "Hi, my name is Han Myeonghwan(한 명환). Lover for computer, music, design and etc. Scroll down to see my programming journey.",
+	"description": "Hi, my name is Han Myeonghwan(한명환). Meeting new people, learning, technology, troubleshooting and thinking about future, they are all I love. Scroll down to see my programming journey.",
 	"projects": [
 		{
 			"name": "Model-Agnostic-Meta-Learning for few-shot Learning",
