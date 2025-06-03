@@ -42,23 +42,23 @@
 	"shortcuts": [
 		{
 			"url": "https://www.github.com/lif31up",
-			"svg_url": "https://fastly.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/github.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/github.svg"
 		},
 		{
 			"url": "https://lif31up.gitbook.io/lif31up",
-			"svg_url": "https://fastly.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/gitbook.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/gitbook.svg"
 		},
 		{
 			"url": "https://scholar.google.com/citations?user=4F8M6pAAAAAJ",
-			"svg_url": "https://fastly.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/scholar.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/scholar.svg"
 		},
 		{
 			"url": "https://www.kaggle.com/myeonghwanhan",
-			"svg_url": "https://fastly.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/kaggle.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/kaggle.svg"
 		},
 		{
 			"url": "mailto:nulranlcns9991@gmail.com",
-			"svg_url": "https://fastly.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/mail.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/mail.svg"
 		}
 	]
 }
