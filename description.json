@@ -42,11 +42,11 @@
 	"shortcuts": [
 		{
 			"url": "https://www.github.com/lif31up",
-			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/github.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io/refs/heads/main/public/github.svg"
 		},
 		{
 			"url": "https://lif31up.gitbook.io/lif31up",
-			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/gitbook.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io/refs/heads/main/public/gitbook.svg"
 		},
 		{
 			"url": "https://www.kaggle.com/myeonghwanhan",
@@ -54,11 +54,11 @@
 		},
 		{
 			"url": "mailto:nulranlcns9991@gmail.com",
-			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/mail.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io/refs/heads/main/public/mail.svg"
 		},
 		{
 			"url": "mailto:nulranlcns9991@gmail.com",
-			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/mail.svg"
+			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io/refs/heads/main/public/mail.svg"
 		}
 	]
 }
