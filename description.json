@@ -42,7 +42,7 @@
 	"shortcuts": [
 		{
 			"url": "https://www.github.com/lif31up",
-			"svg_url": "/github.svg"
+			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/github.svg"
 		},
 		{
 			"url": "https://lif31up.gitbook.io/lif31up",
@@ -50,11 +50,15 @@
 		},
 		{
 			"url": "https://www.kaggle.com/myeonghwanhan",
-			"svg_url": "/kaggle.svg"
+			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/kaggle.svg"
 		},
 		{
 			"url": "mailto:nulranlcns9991@gmail.com",
-			"svg_url": "/mail.svg"
+			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/mail.svg"
+		},
+		{
+			"url": "mailto:nulranlcns9991@gmail.com",
+			"svg_url": "https://raw.githubusercontent.com/lif31up/lif31up.github.io/refs/heads/main/public/mail.svg"
 		}
 	]
 }
