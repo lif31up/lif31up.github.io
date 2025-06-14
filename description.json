@@ -1,10 +1,9 @@
 {
 	"apiVersion": "0.0.2",
 	"interests": {
-		"desc": "I research actionable AI, hoping this makes our society more agreeable and less conflicted.",
+		"desc": "I'm hoping AI makes our society more agreeable and less conflicted.",
 		"topics": [
-			"Natural Language Processing",
-			"Large Language Model",
+			"NLP and LLM",
 			"Meta Learning"
 		]
 	},
