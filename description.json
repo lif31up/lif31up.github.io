@@ -14,14 +14,14 @@
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/model-agnostic-meta-learning",
 			"url1": "https://colab.research.google.com/drive/1ZmtP8rMZsSN_yA6tz3IKQU0ECXeAI018#scrollTo=4IR1_oxrGN3U",
-			"comment": "Handwriting Classification wtih Omniglot Dataset: CNN Model to Predict Unseen Characters"
+			"comment": "Handwriting Classification with Omniglot Dataset: CNN Model to Predict Unseen Characters"
 		},
 		{
 			"name": "Prototypical Network for few-shot Learning",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/prototypical-network",
 			"url1": "https://colab.research.google.com/drive/1ZmtP8rMZsSN_yA6tz3IKQU0ECXeAI018#scrollTo=4IR1_oxrGN3U",
-			"comment": "Handwriting Classification wtih Omniglot Dataset: CNN Model to Quickly Adapt to Unseen Characters"
+			"comment": "Handwriting Classification with Omniglot Dataset: CNN Model to Quickly Adapt to Unseen Characters"
 		},
 		{
 			"name": "Machine Learning from Scratch",
@@ -29,6 +29,13 @@
 			"url0": "https://github.com/lif31up/machine-learning-from-scratch",
 			"url1": "https://github.com/lif31up/machine-learning-from-scratch/",
 			"comment": "Implement Classic AI using Numpy: Linear Regression, Logistic Regression, ADALINE and MLP"
+		},
+		{
+			"name": "Attention Is All You Need",
+			"desc": "[Jupyter Notebook on CoLab]",
+			"url0": "https://github.com/lif31up/attention-is-all-you-need",
+			"url1": "https://colab.research.google.com/drive/1IfCdclHqH4L0O1UlJrOViVncYQCNmaj1?usp=sharing",
+			"comment": "Implement BERT, GPT and Transformer: a NLP model to classify IMDB dataset."
 		},
 		{
 			"name": "2024 SAMSUNG SSAFY: FORMSSAFE",
