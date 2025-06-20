@@ -20,7 +20,7 @@
 			"name": "Attention Is All You Need",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/attention-is-all-you-need",
-			"url1": "https://colab.research.google.com/drive/1IfCdclHqH4L0O1UlJrOViVncYQCNmaj1?usp=sharing",
+			"url1": "https://colab.research.google.com/drive/1oEwK7Tz-XvABJQ9-ypHznY24vD_uq4h_?usp=sharing",
 			"comment": "Implement BERT, GPT and Transformer: a NLP model to classify IMDB dataset."
 		},
 		{
