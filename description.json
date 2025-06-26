@@ -1,6 +1,6 @@
 {
 	"apiVersion": "0.0.2",
-	"description": "Hello, my name is Myunghwan Han. I was originally a computer engineering student at Yonsei University's Mirae Campus, but I withdrew due to personal circumstances. I am currently looking for internship opportunities as I resume my academic and research path.",
+	"description": "Hello, my name is Myunghwan Han. I was originally a computer engineering student, but I withdrew due to personal circumstances. I am currently looking for internship opportunities as I resume my academic and research path.",
 	"interests": {
 		"desc": "I have a deep interest in meta-learning and optimization techniques.",
 		"topics": [
