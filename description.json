@@ -4,8 +4,9 @@
 	"interests": {
 		"desc": "I have a deep interest in meta-learning and optimization techniques.",
 		"topics": [
-			"NLP and LLM",
-			"Meta Learning"
+			"Sequential Data Processing",
+			"Natural Language Processing",
+   "Optimization Algorithms"
 		]
 	},
 	"projects": [
