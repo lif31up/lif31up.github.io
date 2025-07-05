@@ -2,7 +2,7 @@
 	"apiVersion": "0.0.2",
 	"description": "Hello, my name is Myeonghwan Han.",
 	"interests": {
-		"desc": "AI makes the world with less conflict.",
+		"desc": "AI that makes the world less conflicted.",
 		"topics": [
 			"Sequential Data Processing",
    "long Range Dependencies",
