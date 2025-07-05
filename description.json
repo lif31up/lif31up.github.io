@@ -19,7 +19,7 @@
 			"comment": "Handwriting Classification with Omniglot Dataset: CNN Model to Predict Unseen Characters"
 		},
 		{
-			"name": "Extended-BERT-for-Low-Rank-Adaption",
+			"name": "Extended BERT for Low-Rank Adaption",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/attention-is-all-you-need",
 			"url1": "https://colab.research.google.com/drive/1oEwK7Tz-XvABJQ9-ypHznY24vD_uq4h_?usp=sharing",
