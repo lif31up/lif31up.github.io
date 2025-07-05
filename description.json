@@ -5,9 +5,9 @@
 		"desc": "AI that makes the world less conflicted.",
 		"topics": [
 			"Sequential Data Processing",
-   "long Range Dependencies",
-			"Natural Language Processing",
-   "Decoupling Learning"
+   "Natural Language Processing",
+			"Generative AI",
+   "Actionable/Explainable AI"
 		]
 	},
 	"projects": [
