@@ -1,11 +1,11 @@
 {
 	"apiVersion": "0.0.2",
-	"description": "Hello, my name is Myunghwan Han.",
+	"description": "Hello, my name is Myeonghwan Han.",
 	"interests": {
-		"desc": "I have a deep interest in:",
+		"desc": "AI makes the world with less conflict.",
 		"topics": [
 			"Sequential Data Processing",
-  "long range dependencies",
+   "long Range Dependencies",
 			"Natural Language Processing",
    "Decoupling Learning"
 		]
