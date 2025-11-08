@@ -5,9 +5,9 @@
 		"desc": "AI that makes the world less conflicted.",
 		"topics": [
 			"Sequential Data Processing",
-   "Natural Language Processing",
-			"Generative AI",
-   "Actionable/Explainable AI"
+   			"SSMs, Long Sequence and Long-Range Dependencies",
+			"FSL and Meta Learning",
+   			"Reinforcement Learning"
 		]
 	},
 	"projects": [
