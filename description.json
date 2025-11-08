@@ -59,16 +59,6 @@
 			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/gitbook.svg"
 		},
 		{
-			"name": "scholar",
-			"url": "https://scholar.google.com/citations?user=4F8M6pAAAAAJ",
-			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/scholar.svg"
-		},
-		{
-			"name": "kaggle",
-			"url": "https://www.kaggle.com/myeonghwanhan",
-			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/kaggle.svg"
-		},
-		{
 			"name": "email",
 			"url": "mailto:nulranlcns9991@gmail.com",
 			"svg_url": "https://cdn.jsdelivr.net/gh/lif31up/lif31up.github.io@latest/public/mail.svg"
