@@ -12,32 +12,32 @@
 	},
 	"projects": [
 		{
-			"name": "Model-Agnostic-Meta-Learning for few-shot Learning",
+			"name": "Model-Agnostic-Meta-Learning",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/model-agnostic-meta-learning",
-			"url1": "https://colab.research.google.com/drive/1ZmtP8rMZsSN_yA6tz3IKQU0ECXeAI018#scrollTo=4IR1_oxrGN3U",
-			"comment": "Handwriting Classification with Omniglot Dataset: CNN Model to Predict Unseen Characters"
+			"url1": "https://colab.research.google.com/drive/1ZmtP8rMZsSN_yA6tz3IKQU0ECXeAI018?usp=sharing",
+			"comment": "MAML and its variants for FSL image classification "
 		},
 		{
-			"name": "Extended BERT for Low-Rank Adaption",
+			"name": "Encoder-only Transformer Adapter",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/attention-is-all-you-need",
 			"url1": "https://colab.research.google.com/drive/1oEwK7Tz-XvABJQ9-ypHznY24vD_uq4h_?usp=sharing",
-			"comment": "Implement BERT, GPT and Transformer: a NLP model to classify IMDB dataset."
+			"comment": "PETL adaptor for pretrained BERT"
 		},
 		{
-			"name": "Prototypical Network for few-shot Learning",
+			"name": "Knowledge Distillation",
+			"desc": "[Jupyter Notebook on CoLab]",
+			"url0": "https://github.com/lif31up/knowledge-distillation",
+			"url1": "https://colab.research.google.com/drive/1l5MhNUO0_pNpVZSrC9G43yH5vlfwg6Gh?usp=sharing",
+			"comment": "DistillViT for MNIST-10"
+		},
+		{
+			"name": "Prototypical Network",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/prototypical-network",
-			"url1": "https://colab.research.google.com/drive/1ZmtP8rMZsSN_yA6tz3IKQU0ECXeAI018#scrollTo=4IR1_oxrGN3U",
-			"comment": "Handwriting Classification with Omniglot Dataset: CNN Model to Quickly Adapt to Unseen Characters"
-		},
-		{
-			"name": "Machine Learning from Scratch",
-			"desc": "[Repository]",
-			"url0": "https://github.com/lif31up/machine-learning-from-scratch",
-			"url1": "https://github.com/lif31up/machine-learning-from-scratch/",
-			"comment": "Implement Classic AI using Numpy: Linear Regression, Logistic Regression, ADALINE and MLP"
+			"url1": "https://colab.research.google.com/drive/1gsVtGvISCpXQZsKvFjLVocn89ovazusE?usp=sharing",
+			"comment": "Prototypical network for few-shot image classification "
 		},
 		{
 			"name": "2024 SAMSUNG SSAFY: FORMSSAFE",
