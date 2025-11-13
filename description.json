@@ -16,35 +16,42 @@
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/model-agnostic-meta-learning",
 			"url1": "https://colab.research.google.com/drive/1ZmtP8rMZsSN_yA6tz3IKQU0ECXeAI018?usp=sharing",
-			"comment": "MAML and its variants for FSL image classification "
+			"comment": "I implemented MAML, BOIL and ANIL from scratch."
 		},
 		{
 			"name": "Encoder-only Transformer Adapter",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/attention-is-all-you-need",
 			"url1": "https://colab.research.google.com/drive/1oEwK7Tz-XvABJQ9-ypHznY24vD_uq4h_?usp=sharing",
-			"comment": "PETL adaptor for pretrained BERT"
+			"comment": "It's a PETL adaptor implementation for bert-base-uncased."
 		},
 		{
 			"name": "Knowledge Distillation",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/knowledge-distillation",
 			"url1": "https://colab.research.google.com/drive/1l5MhNUO0_pNpVZSrC9G43yH5vlfwg6Gh?usp=sharing",
-			"comment": "DistillViT for MNIST-10"
+			"comment": "I implemented a ViT then distillated it for MNIST."
+		},
+		{
+			"name": "Semi-Supervised Learning",
+			"desc": "[Jupyter Notebook on CoLab]",
+			"url0": "https://github.com/lif31up/SSL",
+			"url1": "https://colab.research.google.com/drive/19tnhhYqi4iBZ7nbZ9NJF6YQA3LlGW8JF?usp=sharing",
+			"comment": "Only with MNIST dataset, I successfully mastered how to pretrain a baseline model."
 		},
 		{
 			"name": "Prototypical Network",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/prototypical-network",
 			"url1": "https://colab.research.google.com/drive/1gsVtGvISCpXQZsKvFjLVocn89ovazusE?usp=sharing",
-			"comment": "Prototypical network for few-shot image classification "
+			"comment": "It's an implementation of PRN."
 		},
 		{
 			"name": "2024 SAMSUNG SSAFY: FORMSSAFE",
 			"desc": "[Visit the Service]",
 			"url0": "https://github.com/lif31up/formssafe",
 			"url1": "https://formssafe.com/",
-			"comment": "Participated in Web-Service Project: Form Making/Sharing Service for Student"
+			"comment": "I have an experience that cooperates for 'FormSAFFE: making and publishing your own form' the web service project."
 		}
 	],
 	"shortcuts": [
