@@ -19,13 +19,6 @@
 			"comment": "I implemented MAML, BOIL and ANIL from scratch."
 		},
 		{
-			"name": "Encoder-only Transformer Adapter",
-			"desc": "[Jupyter Notebook on CoLab]",
-			"url0": "https://github.com/lif31up/attention-is-all-you-need",
-			"url1": "https://colab.research.google.com/drive/1oEwK7Tz-XvABJQ9-ypHznY24vD_uq4h_?usp=sharing",
-			"comment": "It's a PETL adaptor implementation for bert-base-uncased."
-		},
-		{
 			"name": "Knowledge Distillation",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/knowledge-distillation",
@@ -33,11 +26,18 @@
 			"comment": "I implemented a ViT then distillated it for MNIST."
 		},
 		{
-			"name": "Semi-Supervised Learning",
+			"name": "SSL",
 			"desc": "[Jupyter Notebook on CoLab]",
 			"url0": "https://github.com/lif31up/SSL",
 			"url1": "https://colab.research.google.com/drive/19tnhhYqi4iBZ7nbZ9NJF6YQA3LlGW8JF?usp=sharing",
 			"comment": "Only with MNIST dataset, I successfully mastered how to pretrain a baseline model."
+		},
+		{
+			"name": "Encoder-only Transformer Adapter",
+			"desc": "[Jupyter Notebook on CoLab]",
+			"url0": "https://github.com/lif31up/attention-is-all-you-need",
+			"url1": "https://colab.research.google.com/drive/1oEwK7Tz-XvABJQ9-ypHznY24vD_uq4h_?usp=sharing",
+			"comment": "It's a PETL adaptor implementation for bert-base-uncased."
 		},
 		{
 			"name": "Prototypical Network",
